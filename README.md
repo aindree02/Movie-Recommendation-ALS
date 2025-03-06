@@ -16,6 +16,13 @@ It predicts movie ratings and **generates personalized recommendations** based o
 ✔️ Generates personalized movie recommendations.  
 ✔️ Optimizes the model using Hyperparameter Tuning.  
 
+##🛠️ Technologies Used
+Python
+Apache Spark (MLlib)
+Databricks
+PySpark
+SQL Queries for filtering recommendations
+
 ## 📊 Results
 - The best model had **Rank = X** and **RegParam = Y**, with an RMSE of **Z**.  
 - The improved model **generated better recommendations** compared to the default parameters.
