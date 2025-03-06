@@ -20,9 +20,7 @@ It predicts movie ratings and **generates personalized recommendations** based o
 - The best model had **Rank = X** and **RegParam = Y**, with an RMSE of **Z**.  
 - The improved model **generated better recommendations** compared to the default parameters.
 
-## 📌 How to Use
-1. **Clone this repository**  
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
+
+
 
 
